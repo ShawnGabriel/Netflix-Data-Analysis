@@ -30,3 +30,13 @@ The dataset contains information about movies and TV shows available on Netflix,
 - Dataiku
 
 ## Results
+We successfully replicate the analytical results through data manipulation using Python, achieving a 100% accuracy. Below are some of the graphs created in order to visualize the results from each question:
+
+<br/>
+<img src='/sample/Graph1.png'>
+
+<br/>
+<img src='/sample/Graph2.png'>
+
+<br/>
+<img src='/sample/Graph3.png'>
